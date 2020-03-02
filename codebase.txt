@@ -3,3 +3,4 @@ function code() {
 	echo "edited file";
 	echo "new line";
 }
+second line code added
