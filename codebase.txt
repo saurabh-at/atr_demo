@@ -3,4 +3,5 @@ function code() {
 	echo "edited file";
 	echo "new line";
 	echo "line added by shashwat";
+	echo "ft implemented";
 }
