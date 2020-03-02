@@ -1,4 +1,5 @@
 function code() {
+	echo "check this one branch";
 	echo "deleted";
 	echo "edited file";
 	echo "new line";
