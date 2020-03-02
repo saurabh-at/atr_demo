@@ -1,5 +1,5 @@
 function code() {
-	echo "contains codebase in dev branch";
+	echo "deleted";
 	echo "edited file";
 	echo "new line";
 }
